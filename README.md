@@ -5,3 +5,4 @@
   * [Deep Reinforcement Learning from Human Preferences/Feedback](https://github.com/kyscg/Paper2Pulp/blob/master/notes/drl%20from%20human%20preferences.md)
   * [Never Ending Learning](https://github.com/kyscg/Paper2Pulp/blob/master/notes/nELearning.md)
   * [Generative Adversarial Networks](https://github.com/kyscg/Paper2Pulp/blob/gans/notes/gans.md)
+  * [Deep Convolutional GAN's](https://github.com/kyscg/Paper2Pulp/blob/dcgans/notes/dcgans.md)

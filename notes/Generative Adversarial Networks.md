@@ -25,3 +25,20 @@
 ## Theoretical Results
 
 1. Check out Figure 1, Equation 1 and Algorithm 1 from the paper.
+2. G implicitly defines a probability distribution p<sub>g</sub>. We would like an algorithm to converge to a good estimate of p<sub>data</sub>.
+3. The algorithm acts theoretically - non-parametric setting - model has infinite capacity.
+4. We'll show that the G/D game has global optimum at p<sub>g</sub> = p<sub>data</sub>. We'll also see how the algorithm optimizes the cost function ie. Equation 1 in the paper.
+5. Algorithm:
+    * Minibatch Stochastic Gradient Descent Training of GANs
+    * Number of steps to apply to discriminator, k, is a hyperparameter.
+    ```
+    for <no. of training iterations> do:
+        for k steps do:
+            1. Sample minibatch of m noise samples {z_1, ..., z_m} from noise prior.
+            2. Sample minibatch of m samples {z_1, ..., z_m} from data generating distribution.
+            3. Update discriminator by ascending its stochastic gradient
+        end for
+        1. Sample minibatch of m noise samples {z_1, ..., z_m} from noise prior.
+        2. Update generator by descending its stochastic gradient.
+    end for
+    ```

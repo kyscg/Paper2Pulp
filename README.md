@@ -15,8 +15,12 @@
 
 ### June 2019
   * [Explaining and Harnessing Adversarial Examples](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)
+  * [YOLO](https://github.com/kyscg/Paper2Pulp/blob/master/notes/YOLO.md)
   * [Intriguing Properties of Neural Networks](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Intriguing%20Properties%20of%20Neural%20Networks.md)
   * [ZFNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/ZFNet.md)
+  * [GAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Generative%20Adversarial%20Networks.md)
+  * [DCGAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/DCGANs.md)
+  * [NIPS 2016 GAN's Tutorial](https://github.com/kyscg/Paper2Pulp/blob/master/notes/NIPS%202016%20GANs%20Tutorial.md)
 
 ### May 2019
   * [YOLO](https://github.com/kyscg/Paper2Pulp/blob/master/notes/YOLO.md)

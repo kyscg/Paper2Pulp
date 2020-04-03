@@ -103,7 +103,7 @@ Rawls says that the way to think about justice is from the standpoint of a hypot
 
 ### Rawls' Difference Principle
 
-Rawls doesn not say that the only way to remedy / compensate for differences in natural talents and abilities is to have a kind of leveling equality (a guaranteed equality of outcome) but people may gain/benefit from their good fortune, only on terms that work to the advantage of the least well-off.
+Rawls does not say that the only way to remedy / compensate for differences in natural talents and abilities is to have a kind of leveling equality (a guaranteed equality of outcome) but people may gain/benefit from their good fortune, only on terms that work to the advantage of the least well-off.
 
 ### Objections to Rawls' Difference Principle
 
@@ -111,7 +111,7 @@ Rawls doesn not say that the only way to remedy / compensate for differences in 
 
 Rawls has an answer to this objective, he says that the rich are to gain, but not too much as to make everyone lose the motivation needed. In effect, keep the tax rate optimal.
 
-> The naturally advantaged are not to gain merely because they are more gofted, but only to cover the costs of training and education and for using their endowments in ways that help the less fortunate as well. ~ John Rawls
+> The naturally advantaged are not to gain merely because they are more gifted, but only to cover the costs of training and education and for using their endowments in ways that help the less fortunate as well. ~ John Rawls
 
 * What about effort?
 * What about self-ownership?

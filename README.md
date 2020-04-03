@@ -13,8 +13,12 @@
 
 --------------------------
 
+### April 2020
+  * [Justice With Micheal Sandel (Harvard, 2009)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Justice%20with%20Micheal%20Sandel.md)
+
 ### July 2019
   * [CGAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/CGANs.md)
+  
 ### June 2019
   * [Explaining and Harnessing Adversarial Examples](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)
   * [YOLO](https://github.com/kyscg/Paper2Pulp/blob/master/notes/YOLO.md)

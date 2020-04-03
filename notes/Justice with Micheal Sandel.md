@@ -25,9 +25,9 @@
 
 * Poor need money more.
 * Taxation by consent of the governed is not exactly coercion. This objection means to say by agreeing to be a part of society and electing someone who'll govern them, the rich have already agreed to be taxed.
-* The successful owe a debt to society. _I personally think this makes sense but this responsibility should be felt by the rich and successful, we shouldn't expect everyone to feel this way. There are loads of people who have battled extremely constricting societal trappings to get to where they are and we cannot blame them for feeling they don't owe anything to anyone_
+* The successful owe a debt to society. _I personally think this makes sense but this responsibility should be felt by the rich and successful, we shouldn't expect everyone to feel this way. There are loads of people who have battled extremely constricting societal trappings to get to where they are and we cannot blame them for feeling they don't owe anything to anyone_.
 
-* Luck is involved in making money. _To make things clear, this objects to the labour argument against taxation_
+* Luck is involved in making money. _To make things clear, this objects to the labour argument against taxation_.
 
 #### Underlying premise: Do we really **own** ourselves in a society?
 
@@ -39,7 +39,7 @@
 
 > Whatsoever then he removes out of the state that nature has provided, and left it in, he has mixed his labour with, and joined to it something that is his own, and thereby makes it his property.
 
-### How can there be a right to provate property, without consent, before government and legislators arrive on the scene to define property?
+### How can there be a right to private property, without consent, before government and legislators arrive on the scene to define property?
 
 There were some interesting arguments about the taking over of Native American land by the European settlers.
 

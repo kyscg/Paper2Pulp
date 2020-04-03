@@ -118,7 +118,7 @@ Rawls has an answer to this objective, he says that the rich are to gain, but no
 
 > Life isn't fair. It is tempting to believe that  the government can rectify what nature has spawned. ~ Milton Friedman
 
-> The natural distribution is neither just nor unjust; nor is it unjust that persons are born into society at some particular position. These are simply natural facts. What is just and unjust is the way that out institutions deal with these facts. ~ John Rawls
+> The natural distribution is neither just nor unjust; nor is it unjust that persons are born into society at some particular position. These are simply natural facts. What is just and unjust is the way that our institutions deal with these facts. ~ John Rawls
 
 ### Arguments FOR affirmative action
 
@@ -128,7 +128,7 @@ Rawls has an answer to this objective, he says that the rich are to gain, but no
 
 #### Is it possible and is it desirable to detach questions of distributive justice from questions of moral desert and questions of virtue?
 
-### Aristotle's Views (_Extremely intersting and thought-provoking in my opinion_)
+### Aristotle's Views (_Extremely interesting and thought-provoking in my opinion_)
 
 > Justice involves two factors: things and the persons to whom the things are assigned. In general, we say that persons who are equal should have equal things assigned to them. ~ Aristotle
 
@@ -144,7 +144,9 @@ He says that part of the point of politics is to honour people like Pericles, it
 
 ### Objection to Aristotle's Teleological Sense of Justice
 
-If certain roles are fitting/appropriate to me, where does that leave my right to choose my social roles, my life purposes for myself? **What room does teleology leave from freedom?**
+If certain roles are fitting/appropriate to me, where does that leave my right to choose my social roles, my life purposes for myself?
+
+**What room does teleology leave from freedom?**
 
 ### Views of Obligation
 

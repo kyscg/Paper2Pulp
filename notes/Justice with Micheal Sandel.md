@@ -154,4 +154,4 @@ If certain roles are fitting/appropriate to me, where does that leave my right t
 
 > I'm never able to seek for the good / exercise the virtues only qua (as) individuals ...we all approach our own circumstances as bearers of a particular social identity. I am someone's son/daughter, a citizen of this/that city. I belong to this clan, that tribe, this nation.
 
-> These constitute the given of my life, my **moral starting point**. This is, in past, what gives my life its moral particularity
+> These constitute the given of my life, my **moral starting point**. This is, in part, what gives my life its moral particularity

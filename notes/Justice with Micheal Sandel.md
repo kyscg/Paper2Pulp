@@ -47,7 +47,7 @@ There were some interesting arguments about the taking over of Native American l
 
 The only way to leave the state of nature is by an act of **consent** where we all agree to give up the enforcement power and to create a government / community where there will be a legislature to make law and where everyone agrees in advance to abide by what the **majority** decides.
 
-### What can the majority decide? (Decide that the majority cannot decide on your life, liberty and property)
+### What can the majority decide? (Remember that the majority cannot decide on your life, liberty and property)
 
 So, there's a dilemma here. On one hand, we'd like the problem of property rights to be resolved but on the other hand, we all know that the majority cannot decide on the life, liberty and property of individuals as it would mean undermine the inherent principle of self-possession.
 

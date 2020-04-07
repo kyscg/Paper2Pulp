@@ -14,6 +14,7 @@
 --------------------------
 
 ### April 2020
+  * [Virology Lectures with Vincent Racaniello (Colombia, 2020)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Virology%20with%20Vincent%20Racaniello.md)
   * [Justice With Micheal Sandel (Harvard, 2009)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Justice%20with%20Micheal%20Sandel.md)
 
 ### July 2019

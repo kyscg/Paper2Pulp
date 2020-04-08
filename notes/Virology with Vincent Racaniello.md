@@ -159,3 +159,120 @@ This is different from the number of particles each cell recieves. If 10<sup>7</
 3) [The amazing HeLa cells of Henrietta Lacks](https://www.virology.ws/2009/02/09/the-amazing-hela-cells-of-henrietta-lacks/)
 4) [Counting Viruses](https://www.youtube.com/watch?v=tGVDYGxqtJ0)
 5) [Viral RNA is not infectious virus!](https://www.virology.ws/2017/02/17/viral-rna-is-not-infectious-virus/)
+
+## Lecture 3: Genomes and Genetics
+
+[Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin](https://www.biorxiv.org/content/10.1101/2020.01.22.914952v1). _The following line is from the paper, where we can see real-time applications of what we learned in the previous lecture_
+
+> We then successfully isolated the virus (named nCoV-2019 124 BetaCoV/Wuhan/WIV04/2019), in Vero and Huh7 cells using BALF sample from ICU-06 patient. Clear cytopathogenic effects were observed in cells after three days 126 incubation.
+
+### The Hershey-Chase Experiment
+
+Initially, the scientists studying virus particles thought that proteins carried genetic information. This was based on the belief that proteins were more complex than `DNA`. _For example, `DNA` in humans have only 4 bases, how could it carry that much of information_.
+
+* Viruses were known to be composed of a protein shell and `DNA`, so they chose to uniquely label each with a different elemental isotope.
+
+* Since phosphorus is contained in `DNA` but not amino acids, radioactive phosphorus-32 was used to label the `DNA` contained in the T2 phage. Radioactive sulfur-35 was used to label the protein sections of the T2 phage, because sulfur is contained in protein but not `DNA`.
+
+| ![Structural Overview of T2 Phage](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tevenphage.svg/330px-Tevenphage.svg.png) |
+|:--:|
+| *Structural Overview of T2 Phage* |
+
+* Hershey and Chase inserted the radioactive elements in the bacteriophages by adding the isotopes to separate media within which bacteria were allowed to grow for 4 hours before bacteriophage introduction.
+
+* When the bacteriophages infected the bacteria, the progeny contained the radioactive isotopes in their structures.
+
+* This procedure was performed once for the sulfur-labeled phages and once for phosphorus-labeled phages.
+
+* The labeled progeny were then allowed to infect unlabeled bacteria. The phage coats remained on the outside of the bacteria, while genetic material entered.
+
+* Disruption of phage from the bacteria by agitation in a blender followed by centrifugation allowed for the separation of the phage coats from the bacteria. These bacteria were lysed to release phage progeny.
+
+*Note: We now know that some phages completely enter the bacteria like `E. Coli` but it was a fortunate coincidence that the T2 phages didn't do so.*
+
+* **The progeny of the phages that were labeled with radioactive phosphorus remained labeled, whereas the progeny of the phages labeled with radioactive sulfur were unlabeled**. Thus, the Hershey–Chase experiment helped to confirm that `DNA`, not protein, is the genetic material.
+
+| ![Hershey-Chase Experiment](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hershey_Chase_experiment.png/536px-Hershey_Chase_experiment.png) |
+|:--:|
+| *Hershey-Chase Experiment* |
+
+Similar Experiment: The Fraenkel-Conrat Experiment on Tobacco Mosaic Virus.
+
+### Number of Viral Genomes
+
+There are thousands of different virions, and it seems that there is an infinite complexity of infections. But the number of viral genomes is finite, in fact, it is my favourite number: **7**.
+
+One of the reasons for this is all viruses or viral genomes have to make `mRNA` that can be translated by the host ribosomes. This constraint causes the limit. _I have to admit, this doesn't exactly give a proper answer. What is the relation between the constraint on the `mRNA` and the number of viral genomes? I couldn't find an answer anywhere and I've written a mail to Prof. Racaniello. I'll update it once I get an answer._
+
+#### [The Baltimore System: Simplifying Virus Classification](https://www.virology.ws/2009/08/12/simplifying-virus-classification-the-baltimore-system/)
+
+Virologist [David Baltimore](https://en.wikipedia.org/wiki/David_Baltimore) devised an alternative classification scheme that takes into account the nature of the viral nucleic acid.
+
+All viruses **must** direct the synthesis of `mRNA` to produce proteins. No viral genome encodes a complete system for translating proteins; therefore all viral protein synthesis is completely dependent upon the translational machinery of the cell.
+
+| ![Baltimore System](https://www.virology.ws/wp-content/uploads/2009/08/baltimore-classification.jpg) |
+|:--:|
+| *Baltimore System* |
+
+| Class | Type | Remarks |
+|----|---|---|
+| 1 | Double-stranded `DNA` | We can make `mRNA` from this |
+| 2 | Single-stranded `DNA` | Double-stranded `DNA` is made from this and then to `mRNA`. **Single-stranded `DNA` is not a template for `mRNA` synthesis** |
+| 3 | Double-stranded `RNA` | Both the messenger and anti-messenger `RNA` |
+| 4 | `+ RNA` | In some cases, we can translate it directly but we need to go through a `- RNA` to make more of it. |
+| 5 | `- RNA` | It must first be transcribed into a positive-sense `RNA` that acts as an `mRNA`. |
+| 6 | `+ RNA` | Unusual in the sense that it is converted to `DNA` which is then converted to double-stranded `DNA` |
+
+*Note: When originally conceived, the Baltimore scheme encompassed six classes of viral genome, as shown in the figure.  Subsequently the gapped `DNA` genome of hepadnaviruses (e.g. hepatitis B virus) was discovered.*
+
+A few definitions that will help make more sense follow:
+
+* `mRNA` is always the `+` strand.
+* `DNA` of equivalent polarity is also the `+` strand.
+* `RNA` and `DNA` complements of `+` strands are `-` strands.
+* Not all `+ RNA` is `mRNA`!
+
+#### In conclusion: The Seven Classes of Viral Genomes
+
+* Double Stranded `DNA`
+
+* Gapped Double Stranded `DNA`
+
+* Single Stranded `DNA`
+
+* Double Stranded `RNA`
+
+* Single Stranded `+ RNA`
+
+* Single Stranded `- RNA`
+
+* Single Stranded `+ RNA` with `DNA` intermediate
+
+
+| ![Baltimore System](https://microbeonline.com/wp-content/uploads/2016/06/Baltimore-System-of-Classification-of-Viruses.bmp) |
+|:--:|
+| *Baltimore System with Examples* |
+
+### What information is encoded in a viral genome?
+
+Gene products and regulatory signals for:
+
+* Protein synthesis (mainly giant viruses)
+* Replication of the viral genome
+* Assembly and packaging of the genome
+* Regulation and timing of the replication cycle
+* Modulation of host defenses
+* Spread to other cells and hosts.
+
+### What information is NOT encoded in a viral genome?
+
+* No genes encoding the complete protein synthesis machinery
+* No genes encoding proteins involved in membrane biosynthesis
+* No classical centromeres or telomeres found in standard host chromosomes
+* Probably we haven’t found them yet - 90% of giant virus genes are novel.
+
+### Additional Reading
+
+1) Principles of Virology, Flint et al., Volume 1, Chapter 3
+2) [Baltimore Classification](https://www.virology.ws/2009/08/12/simplifying-virus-classification-the-baltimore-system/)
+3) [Viral Zone](https://viralzone.expasy.org/)

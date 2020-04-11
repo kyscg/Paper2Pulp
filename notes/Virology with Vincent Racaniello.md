@@ -276,3 +276,117 @@ Gene products and regulatory signals for:
 1) Principles of Virology, Flint et al., Volume 1, Chapter 3
 2) [Baltimore Classification](https://www.virology.ws/2009/08/12/simplifying-virus-classification-the-baltimore-system/)
 3) [Viral Zone](https://viralzone.expasy.org/)
+
+## Lecture 4: Structure of Viruses
+
+### Functions of structural proteins
+
+#### Protection of the genome
+
+* Assembly of a stable protective protein shell.
+* Specific recognition and packaging of the nucleic acid genome.
+* Interaction with host cell membranes to form the envelope.
+
+#### Delivery of the genome
+
+* Bind host cell receptors.
+* Uncoating of the genome.
+* Fusion with cell membranes.
+* Transport of genome to the appropriate site.
+
+### Some definitions
+
+* **Subunit**: A single folded polypeptide chain. _Denoted by VP1, VP2 etc._
+* **Structural unit** (protomer, asymmetric unit) - Unit from which capsids or nucleocapsids are built; one or more  subunits.
+* **Capsid** (capsa = Latin, box) - Protein shell surrounding genome. _It is made up of subunits._
+* **Envelope** (viral membrane) - Host cell-derived lipid bilayer. _For some viruses only, this always comes from the host cell because viruses cannot make lipids_.
+* **Nucleocapsid** (core) - Nucleic acid - protein assembly within particle. _Nucleocapsid is used against capsid when the it's a discrete substructure_.
+
+### Metastability
+
+An important concept to understand is that virus particles are meta-stable. The capsid proteins have to be very stable in transit as the virus tries to find a new host *(Example: Respiratory virus particles have to be very stable in aerosols for effective transfer)* but when it finds the right host, the capsid has to give up the genome by becoming unstable.
+
+The metastability of the virions (virus particles) arises from the fact that they haven't attained the minimum free energy conformation. They first need to surmount the energy barrier and the potential energy is used for disassembly if the host cell gives a proper signal.
+
+| ![Metastability](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meta-stability.svg/375px-Meta-stability.svg.png) |
+|:--:|
+| *Metastability of virions (Giving up of genomes happens at stage 3)* |
+
+#### How is metastability achieved?
+
+* Stability in structure is achieved by creating a **symmetrical** arrangement of many identical proteins to
+provide maximal contact.
+
+* Unstability happens primarily because these proteins aren't covalently joined and can be taken apart/loosened upon infection.
+
+### Symmetry
+
+There are primarily three kinds of virus particles: particles with helical symmetry (*Tobacco Mosaic Virus*), icosahedral symmetry (*Poliovirus*), complex (*don't fit into the above two*). 
+
+Let's go back to Watson and Crick who are most famous for discovering the structure of `DNA`. _For those of you who are into this stuff, I recommend reading The Double Helix, it's just fantastic_.
+
+Watson and Crick observed that most virus particles were spherical or rod-shaped. They also knew that viral genomes were small which meant that particles would be built with many copies of a few proteins.
+
+* Rod-shaped viruses are identical protein subunits that are distributed with *helical symmetry*.
+
+* Spherical viruses are identical protein subunits that are distributed with *icosahedral symmetry*.
+
+#### Rules of Symmetry
+
+* **Rule 1**:  Each subunit has ‘identical’ bonding contacts with its neighbors. (*Repeated interaction of chemically complementary surfaces at the subunit interfaces naturally leads to a symmetric arrangement*)
+
+* **Rule 2**: These bonding contacts are usually non-covalent. (*Reversible; error-free assembly. This means that if there's an error in the assembly of the particle, we can reverse it and re-assemble which wouldn't be possible in case of a covalent bond.*)
+
+#### Symmetry and Self-Assembly
+
+If we have capsid proteins lying around in a cell, they will self-assemble into virus-like particles (VLP's) and these VLP's are used in some cases as vaccines. Some examples are the Hepatitis B vaccines, human papilloma virus vaccines which are VLP's made in yeast.
+
+### Helical Symmetry
+
+* The coat protein subunits form a helical subunit with number of proteins/turn = 3. There are both protein-protein contacts as well as protein-`RNA` contacts. (`+ RNA` in case of TMV)
+
+* Animal viruses also have helical symmetry but are always enveloped.
+
+| ![Helical Symmetry in TMV](http://www.twiv.tv/wp-content/uploads/2009/07/helical-symmetry2-1024x775.jpg) |
+|:--:|
+| *Helical Symmetry in TMV and the envelope in animal viruses* |
+
+### Icosahedral Symmetry
+
+The important question here is: How can you make a round capsid from proteins with irregular shapes? Watson and Crick answered that by using two important ideas:
+
+* All round capsids have precise numbers of proteins; multiples of 60 are common (60, 180, 240, 960)
+
+* Spherical viruses come in many sizes, but capsid proteins are 20-60 kDa average.
+
+An icosahedron is a solid with 20 faces, each an  equilateral triangle. It has five, three and two-fold axes of symmetry (12 each). It also allows formation of a closed shell with smallest number (60) of  identical subunits.
+
+#### Simple icosahedral capsids
+
+
+| ![Icosahedral symmetry](http://www.twiv.tv/wp-content/uploads/2009/07/icosahedral-symmetry-1024x775.jpg) |
+|:--:|
+| *Icosahedral Symmetry* |
+
+* Made of 60 identical protein subunits
+* The protein subunit is the structural unit
+* Interactions of all molecules with their neighbors are identical (head-to-head, tail-to-tail)
+* The particles are spherical, not icosahedra! (*This means that the particles are just arranged in an icosahedral symmetry but they aren't flat and triangular, so they look more spherical*)
+
+#### [T (Triangulation) Number](http://www.virology.wisc.edu/virusworld/tri_number.php)
+
+It is the number of facets in each of the faces of this particle.
+
+### Enveloped Virions
+
+We know that capsids can be covered by host membranes. The envelope is a lipid bilayer derived from host cell as the viral genome does not encode lipid synthetic machinery.
+
+Envelopes are usually acquired by budding of nucleocapsid through a cellular membrane. Can be any cell membrane, but is virus-specific.
+
+Nucleocapsids inside the envelope may have helical or icosahedral symmetry.
+
+### Additional Reading
+
+1) Principles of Virology, Flint et al., Volume 1, Chapter 4
+2) [Buckyball viruses](https://youtu.be/qLAEUvlVmqY)
+3) [Virus images at VIPERdb](https://www.virology.ws/2009/03/06/virus-images-at-viperdb/)

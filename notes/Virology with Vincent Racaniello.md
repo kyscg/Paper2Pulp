@@ -390,3 +390,62 @@ Nucleocapsids inside the envelope may have helical or icosahedral symmetry.
 1) Principles of Virology, Flint et al., Volume 1, Chapter 4
 2) [Buckyball viruses](https://youtu.be/qLAEUvlVmqY)
 3) [Virus images at VIPERdb](https://www.virology.ws/2009/03/06/virus-images-at-viperdb/)
+
+## Lecture 5: Attachment and Entry
+
+* Viruses are obligate intracellular parasites but they're too big to just diffuse across the plasma membrane.
+
+* They need to find the *right* cell receptor. They first adhere to the cell surface via random collisions and electrostatics, then they attach to specific receptor molecules on cell surface and transfer the genome inside the cell.
+
+There are some criteria for identifying cell receptors for viruses:
+
+* We have to show that the receptor actually binds to the virus particle.
+
+* There exists an antibody to the receptor that blocks infection.
+
+* There is a receptor gene that confers susceptibility and its disruption blocks infection.
+
+Sometimes, different viruses may bind to the same receptor. And other times, viruses of the same family bind to different receptors.
+
+### How do viruses attach to receptors?
+
+For foreign particles, entry into viruses happens in many ways like [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis), [endocytosis](https://en.wikipedia.org/wiki/Endocytosis) and [surfing](https://www.frontiersin.org/articles/10.3389/fmicb.2016.00300/full#h6). We are mostly interested in endocytosis.
+
+Important point: **To reiterate, the cytoplasm is extremely crowded, and movement of large protein complexes will not take place via diffusion**
+
+#### Class 1 Fusion Proteins
+
+* Perpendicular to membrane - spikes.
+
+* Mostly α-helical.
+
+* Form trimers.
+
+#### Class 2 Fusion Proteins
+
+* Mostly β-sheet.
+
+* Form dimers.
+
+* Parallel to the membrane.
+
+#### Regulation of fusion
+
+* Fusion must not occur in the wrong location.
+
+* Neutral pH (plasma membrane)
+
+  * Second protein receptor interaction.
+
+* Low pH fusion.
+  * Proteolytic cleavage activates the fusion protein for cleavage.
+
+  * Endosome fusion receptor.
+
+### Additional Reading
+
+1) Principles of Virology, Flint et al., Volume 1, Chapter 5
+2) [A portal for RNA exit](https://www.virology.ws/2019/02/14/a-portal-for-rna-exit/)
+3) [A human rhinovirus in chimpanzees](https://www.virology.ws/2018/02/01/a-human-rhinovirus-in-chimpanzees/)
+
+## Lecture 6: `RNA` directed `RNA` synthesis

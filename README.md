@@ -13,6 +13,9 @@
 
 --------------------------
 
+### May 2020
+  * [Proof that $\exp{(x)} = \lim\limits_{n \to \infty}\bigg(1 + \frac{x}{n}\bigg)^n.$](https://github.com/kyscg/Paper2Pulp/blob/master/notes/expProof.pdf)
+
 ### April 2020
   * [Virology Lectures with Vincent Racaniello (Columbia, 2020)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Virology%20with%20Vincent%20Racaniello.md)
   * [Justice With Micheal Sandel (Harvard, 2009)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Justice%20with%20Micheal%20Sandel.md)

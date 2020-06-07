@@ -14,6 +14,10 @@
 
 --------------------------
 
+### June 2020
+
+* Dynamical generalizations of the Prime Number Theorem ([Paper](https://arxiv.org/pdf/2002.03498.pdf))([Notes](https://))
+
 ### May 2020
 
 * [Proof that $\exp{(x)} = \lim\limits_{n \to \infty}\bigg(1 + \frac{x}{n}\bigg)^n.$](https://github.com/kyscg/Paper2Pulp/blob/master/notes/expProof.pdf) (How I wish GitHub Markdown could render LaTeX)

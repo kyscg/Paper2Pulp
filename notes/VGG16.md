@@ -18,7 +18,7 @@ small (3 × 3) convolution filters in all layers.
 8. Width of conv. layers (no. of channels) starts at 64 and increases by 2 until 512 after each pooling.
 9. The architectures of all configurations (from the paper):
 
-![](https://cdn-images-1.medium.com/max/1600/1*FRd9fDM1TXThW2V8ylL7VQ.png)
+![a](https://cdn-images-1.medium.com/max/1600/1*FRd9fDM1TXThW2V8ylL7VQ.png)
 
 ## Discussion
 
@@ -27,7 +27,7 @@ small (3 × 3) convolution filters in all layers.
 
 ## Training
 
-1. Namely, the training was carried out by optimising the multinomial logistic regression objective using mini-batch gradient descent with momentum. The batch size was set to 256, momentum to 0.9. The training was regularised by weight decay (the L2 penalty multiplier set to 5 * 10<sup>−4</sup> ) and dropout regularisation for the first two fully-connected layers (dropout ratio set to 0.5). 
+1. Namely, the training was carried out by optimising the multinomial logistic regression objective using mini-batch gradient descent with momentum. The batch size was set to 256, momentum to 0.9. The training was regularised by weight decay (the L2 penalty multiplier set to 5 * 10<sup>−4</sup> ) and dropout regularisation for the first two fully-connected layers (dropout ratio set to 0.5).
 2. The learning rate was initially set to 10<sup>−2</sup> , and then decreased by a factor of 10 when the validation set accuracy stopped improving. In total, the learning rate was decreased 3 times, and the learning was stopped after 370K iterations (74 epochs).
 3. As compared to [AlexNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/AlexNet.md), the nets required less epochs to converge due to (a) implicit regularisation imposed by greater depth and smaller conv. filter sizes; (b) pre-initialisation of certain layers.
 4. The initialization of layers other than A were done with the first few layers of A which was already trained, this sped up the training process. However, learning rate wasn't decreased during training of the other layers.

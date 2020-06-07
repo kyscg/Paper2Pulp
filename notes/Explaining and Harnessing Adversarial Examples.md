@@ -29,10 +29,10 @@ at the time due to the need for expensive constrained optimization in the inner 
 
 1. **Neural networks are too linear to resist linear adversarial perturbation.**  LSTMs, ReLUs, and maxout networks are all intentionally designed to behave in very linear ways, so that they are easier to optimize. More nonlinear models such as sigmoid networks are carefully tuned to spend most of their time in the non-saturating, more linear regime for the same reason. This linear behavior suggests that cheap, analytical perturbations of a linear model should also damage neural networks.
 
-![Panda + Nematode = Gibbon](https://cdn-images-1.medium.com/max/1200/0*k3QpRlbCJoiuUkNa)
+    ![Panda + Nematode = Gibbon](https://cdn-images-1.medium.com/max/1200/0*k3QpRlbCJoiuUkNa)
 
 2. **The Fast Gradient Sign Method**. It's great and all, but I've got no intention of typing LaTeX on GitHub Markdown all night.
-3.  Other simple methods of generating adversarial examples are possible. For example, we also found that rotating 'x' by a small angle in the direction of the gradient reliably produces adversarial examples.
+3. Other simple methods of generating adversarial examples are possible. For example, we also found that rotating 'x' by a small angle in the direction of the gradient reliably produces adversarial examples.
 
 ## Adversarial training of linear models versus weight decay
 
@@ -45,4 +45,4 @@ at the time due to the need for expensive constrained optimization in the inner 
     * Standard supervised training does not specify that the chosen function be resistant to adversarial examples. This must be encoded in the training procedure somehow.
 2. **Cost function for adversarial training**
 3. The adversarial training procedure can be seen as minimizing the worst case error when the data is perturbed by an adversary.
-4.  Adversarial training can also be seen as a form of active learning, where the model is able to request labels on new points.
+4. Adversarial training can also be seen as a form of active learning, where the model is able to request labels on new points.

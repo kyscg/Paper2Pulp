@@ -6,7 +6,7 @@
 * No morals legislation. The State should not try to promote virtues or enact moral legislation.
 * No redistribution of income from the rich to the poor (soft libertarians approve of slight taxation for judicial system, peace force, etc.)
 
-### What makes Income Distribution just?
+### What makes Income Distribution just
 
 * Justice in acquisition (how legally did people make their money?)
 * Justice in transfer (did the distribution arise from the operation of free consent?). An example is buying and trading on the free market.
@@ -19,9 +19,9 @@
 
 #### Violates the fundamental libertarian idea of self-possession
 
-#### Digression: What would happen if public services like fire engines and ambulances can suddenly be made private and available to only subscribers?
+#### Digression: What would happen if public services like fire engines and ambulances can suddenly be made private and available to only subscribers
 
-### Objections to Libertarianism:
+### Objections to Libertarianism
 
 * Poor need money more.
 * Taxation by consent of the governed is not exactly coercion. This objection means to say by agreeing to be a part of society and electing someone who'll govern them, the rich have already agreed to be taxed.
@@ -29,7 +29,7 @@
 
 * Luck is involved in making money. _To make things clear, this objects to the labour argument against taxation_.
 
-#### Underlying premise: Do we really **own** ourselves in a society?
+#### Underlying premise: Do we really **own** ourselves in a society
 
 ## Connection between labour and property
 
@@ -39,7 +39,7 @@
 
 > Whatsoever then he removes out of the state that nature has provided, and left it in, he has mixed his labour with, and joined to it something that is his own, and thereby makes it his property.
 
-### How can there be a right to private property, without consent, before government and legislators arrive on the scene to define property?
+### How can there be a right to private property, without consent, before government and legislators arrive on the scene to define property
 
 There were some interesting arguments about the taking over of Native American land by the European settlers.
 
@@ -53,7 +53,7 @@ So, there's a dilemma here. On one hand, we'd like the problem of property right
 
 Property is natural in one sense but conventional in another, it's natural in the sense that we have a fundamental unalienable right, that the **institution of property** exist and be respected by the government. But what counts as taking up property is defined by the government.
 
-## What's the Right Thing To Do?
+## What's the Right Thing To Do
 
 According to Immanual Kant, when we, like animals, seek pleasure or the satisfaction of desires or the avoidance of pain, we aren't really acting freely, we're acting as the slaves of those appetites. _Personally, I couldn't agree more. Freedom is not choosing Twitter and McDonalds over Instagram and KFC, it is not needing to choose any of them at all._
 
@@ -68,7 +68,7 @@ According to Immanual Kant, when we, like animals, seek pleasure or the satisfac
 
 * Moral worth of an action depends on motive.
 
-### What is the supreme principle of morality?
+### What is the supreme principle of morality
 
 * Duty vs. Inclination
 * Autonomy vs. Heteronomy
@@ -126,13 +126,13 @@ Rawls has an answer to this objective, he says that the rich are to gain, but no
 * Compensatory : For past wrongs (_until when though?_)
 * Diversity : For educational experience and for society as a whole.
 
-#### Is it possible and is it desirable to detach questions of distributive justice from questions of moral desert and questions of virtue?
+#### Is it possible and is it desirable to detach questions of distributive justice from questions of moral desert and questions of virtue
 
 ### Aristotle's Views (_Extremely interesting and thought-provoking in my opinion_)
 
 > Justice involves two factors: things and the persons to whom the things are assigned. In general, we say that persons who are equal should have equal things assigned to them. ~ Aristotle
 
-#### To whom should the best tennis courts in the university go to? To the best players or everyone on a turn basis / first-come-first-serve basis?
+#### To whom should the best tennis courts in the university go to? To the best players or everyone on a turn basis / first-come-first-serve basis
 
 Aristotle took distributive justice to be mainly not about income and wealth but about offices and honours. Who should have the right to rule? Who should be a citizen?
 

@@ -15,7 +15,7 @@
 2. We train D to maximize the probability of assigning the correct label to both training examples and samples from G. We simultaneously train G to minimize log(1 − D(G(z)))
 3. **IMPORTANT COST FUNCTION**, when I say important, I mean it is essential to understand how all the words above turned into math.
 4. I feel like at this point, the reader must be thinking of ways to efficiently implement this and spoiler, figure out what's wrong with the cost function.
-5. A trick that I think would work here: 
+5. A trick that I think would work here:
     * D is easier to train than G, but **only** as D improves, G can improve.
     * The performance of D can be seen as an upper-bound to what G can achieve.
     * We alternate between k steps of optimizing D and one step of optimizing G. This results in D being maintained near its optimal solution, so long as G changes slowly enough.
@@ -31,7 +31,8 @@
 5. Algorithm:
     * Minibatch Stochastic Gradient Descent Training of GANs
     * Number of steps to apply to discriminator, k, is a hyperparameter.
-    ```
+
+    ```pseudo
     for <no. of training iterations> do:
         for k steps do:
             1. Sample minibatch of m noise samples {z_1, ..., z_m} from noise prior.

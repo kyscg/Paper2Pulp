@@ -1,6 +1,6 @@
 # [Virology Lectures by Vincent Racaniello, (2020)](https://www.youtube.com/playlist?list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip)
 
-## Lecture 1: What is a Virus?
+## Lecture 1: What is a Virus
 
 * Just like we have a microbiome, we also have a virome.
 * The human genome has 3.2 billion bases out of which 8.3% are LTR transposons (remainders of retroviruses).
@@ -18,7 +18,7 @@
 2) Virology is an integrated discipline, not an isolated collection of viruses, diseases and genes.
 3) Fundamentals of the viruses.
 
-### What is a Virus?
+### What is a Virus
 
 > A virus is an infectious, obligate, intracellular parasite comprising genetic material (DNA/RNA), often surrounded by a protein coat, sometimes a membrane.
 
@@ -87,7 +87,7 @@ Some important definitions:
 |:--:|
 | *Virus Infectious Cycle* |
 
-### How does one know if a particular cell is infected?
+### How does one know if a particular cell is infected
 
 One way is to look at them through a light microscope and looking for the [_cytopathic effect_](https://en.wikipedia.org/wiki/Cytopathic_effect) (CPE).
 
@@ -97,7 +97,7 @@ One way is to look at them through a light microscope and looking for the [_cyto
 
 Another way is to look for the formation of the [_syncytia_](https://en.wikipedia.org/wiki/Syncytium). These are just two ways of identification and there are many others depending on the type of virus particle involved.
 
-### How many viruses are there in the sample?
+### How many viruses are there in the sample
 
 We've now identified that the virus is replicating and isolated the supernatant. How do we know how much virus is there in the supernatant?
 
@@ -107,7 +107,7 @@ We've now identified that the virus is replicating and isolated the supernatant.
 
 Sometimes, the viruses don't kill the cells and we can't see the plaques. So we add a gene to their genome that adds a colour and count the coloured plaques instead.
 
-### How many viruses are needed to form a plaque?
+### How many viruses are needed to form a plaque
 
 If we are going to measure the virus titer by a plaque assay, we have to make sure that one virus will make a plaque. We use a dose-response curve to solve this problem.
 
@@ -115,7 +115,7 @@ If we are going to measure the virus titer by a plaque assay, we have to make su
 |:--:|
 | _Dose-Response Curve_ |
 
-### What do we do for viruses that do not form a plaque?
+### What do we do for viruses that do not form a plaque
 
 * There is one method called the Endpoint dilution assay. Serial dilutions of a virus stock are prepared and inoculated onto replicate cell cultures, the number of cell cultures that are infected is then determined for each virus dilution, usually by looking for cytopathic effect.
 
@@ -135,7 +135,7 @@ The term particle/PFU ratio refers to the number of viral particles required to 
   * Damaged particles (broken during assembly et al.)
   * Mutations
 
-**INCUBATION PERIOD AND ECLIPSE PERIOD ARE NOT THE SAME**
+#### INCUBATION PERIOD AND ECLIPSE PERIOD ARE NOT THE SAME
 
 ### Single Step and Multi Step Growth Curves
 
@@ -248,12 +248,11 @@ A few definitions that will help make more sense follow:
 
 * Single Stranded `+ RNA` with `DNA` intermediate
 
-
 | ![Baltimore System](https://microbeonline.com/wp-content/uploads/2016/06/Baltimore-System-of-Classification-of-Viruses.bmp) |
 |:--:|
 | *Baltimore System with Examples* |
 
-### What information is encoded in a viral genome?
+### What information is encoded in a viral genome
 
 Gene products and regulatory signals for:
 
@@ -264,14 +263,14 @@ Gene products and regulatory signals for:
 * Modulation of host defenses
 * Spread to other cells and hosts.
 
-### What information is NOT encoded in a viral genome?
+### What information is NOT encoded in a viral genome
 
 * No genes encoding the complete protein synthesis machinery
 * No genes encoding proteins involved in membrane biosynthesis
 * No classical centromeres or telomeres found in standard host chromosomes
 * Probably we haven’t found them yet - 90% of giant virus genes are novel.
 
-### Additional Reading
+### Extra Reading
 
 1) Principles of Virology, Flint et al., Volume 1, Chapter 3
 2) [Baltimore Classification](https://www.virology.ws/2009/08/12/simplifying-virus-classification-the-baltimore-system/)
@@ -312,7 +311,7 @@ The metastability of the virions (virus particles) arises from the fact that the
 |:--:|
 | *Metastability of virions (Giving up of genomes happens at stage 3)* |
 
-#### How is metastability achieved?
+#### How is metastability achieved
 
 * Stability in structure is achieved by creating a **symmetrical** arrangement of many identical proteins to
 provide maximal contact.
@@ -321,7 +320,7 @@ provide maximal contact.
 
 ### Symmetry
 
-There are primarily three kinds of virus particles: particles with helical symmetry (*Tobacco Mosaic Virus*), icosahedral symmetry (*Poliovirus*), complex (*don't fit into the above two*). 
+There are primarily three kinds of virus particles: particles with helical symmetry (*Tobacco Mosaic Virus*), icosahedral symmetry (*Poliovirus*), complex (*don't fit into the above two*).
 
 Let's go back to Watson and Crick who are most famous for discovering the structure of `DNA`. _For those of you who are into this stuff, I recommend reading The Double Helix, it's just fantastic_.
 
@@ -363,7 +362,6 @@ An icosahedron is a solid with 20 faces, each an  equilateral triangle. It has f
 
 #### Simple icosahedral capsids
 
-
 | ![Icosahedral symmetry](http://www.twiv.tv/wp-content/uploads/2009/07/icosahedral-symmetry-1024x775.jpg) |
 |:--:|
 | *Icosahedral Symmetry* |
@@ -385,7 +383,7 @@ Envelopes are usually acquired by budding of nucleocapsid through a cellular mem
 
 Nucleocapsids inside the envelope may have helical or icosahedral symmetry.
 
-### Additional Reading
+### More Reading
 
 1) Principles of Virology, Flint et al., Volume 1, Chapter 4
 2) [Buckyball viruses](https://youtu.be/qLAEUvlVmqY)
@@ -407,7 +405,7 @@ There are some criteria for identifying cell receptors for viruses:
 
 Sometimes, different viruses may bind to the same receptor. And other times, viruses of the same family bind to different receptors.
 
-### How do viruses attach to receptors?
+### How do viruses attach to receptors
 
 For foreign particles, entry into viruses happens in many ways like [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis), [endocytosis](https://en.wikipedia.org/wiki/Endocytosis) and [surfing](https://www.frontiersin.org/articles/10.3389/fmicb.2016.00300/full#h6). We are mostly interested in endocytosis.
 
@@ -442,7 +440,7 @@ Important point: **To reiterate, the cytoplasm is extremely crowded, and movemen
 
   * Endosome fusion receptor.
 
-### Additional Reading
+### Some more Reading
 
 1) Principles of Virology, Flint et al., Volume 1, Chapter 5
 2) [A portal for RNA exit](https://www.virology.ws/2019/02/14/a-portal-for-rna-exit/)

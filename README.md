@@ -16,7 +16,7 @@
 
 ### June 2020
 
-* Dynamical generalizations of the Prime Number Theorem ([Paper](https://arxiv.org/pdf/2002.03498.pdf))([Notes](https://))
+* [Dynamical generalizations of the Prime Number Theorem](https://github.com/kyscg/Paper2Pulp/blob/master/notes/PrimeNumberTheorem.pdf) [![Paper](http://img.shields.io/badge/arXiv-2002.03498-B3181B.svg)](https://arxiv.org/abs/2002.03498)
 
 ### May 2020
 
@@ -24,28 +24,27 @@
 
 ### April 2020
 
-* [Virology Lectures with Vincent Racaniello (Columbia, 2020)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Virology%20with%20Vincent%20Racaniello.md)
-* [Justice With Micheal Sandel (Harvard, 2009)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Justice%20with%20Micheal%20Sandel.md)
+* [Virology Lectures with Vincent Racaniello (Columbia, 2020)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Virology%20with%20Vincent%20Racaniello.md) [![Video](http://img.shields.io/badge/Video-YouTube-ff0000.svg)](https://www.youtube.com/playlist?list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip)
+* [Justice With Micheal Sandel (Harvard, 2009)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Justice%20with%20Micheal%20Sandel.md) [![Video](http://img.shields.io/badge/Video-YouTube-ff0000.svg)](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
 
 ### July 2019
 
-* [CGAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/CGANs.md)
+* [CGAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/CGANs.md) [![Paper](http://img.shields.io/badge/arXiv-1411.1784-B3181B.svg)](https://arxiv.org/abs/1411.1784) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
   
 ### June 2019
 
-* [Explaining and Harnessing Adversarial Examples](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Explaining%20and%20Harnessing%20Adversarial%20Examples.md)
-* [YOLO](https://github.com/kyscg/Paper2Pulp/blob/master/notes/YOLO.md)
-* [Intriguing Properties of Neural Networks](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Intriguing%20Properties%20of%20Neural%20Networks.md)
-* [ZFNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/ZFNet.md)
-* [GAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Generative%20Adversarial%20Networks.md)
-* [DCGAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/DCGANs.md)
-* [NIPS 2016 GAN's Tutorial](https://github.com/kyscg/Paper2Pulp/blob/master/notes/NIPS%202016%20GANs%20Tutorial.md)
+* [Explaining and Harnessing Adversarial Examples](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Explaining%20and%20Harnessing%20Adversarial%20Examples.md) [![Paper](http://img.shields.io/badge/arXiv-1412.6572-B3181B.svg)](https://arxiv.org/abs/1412.6572) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [Intriguing Properties of Neural Networks](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Intriguing%20Properties%20of%20Neural%20Networks.md) [![Paper](http://img.shields.io/badge/arXiv-1312.6199-B3181B.svg)](https://arxiv.org/abs/1312.6199) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [ZFNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/ZFNet.md) [![Paper](http://img.shields.io/badge/arXiv-1311.2901-B3181B.svg)](https://arxiv.org/abs/1311.2901) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [GAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/Generative%20Adversarial%20Networks.md) [![Paper](http://img.shields.io/badge/arXiv-1406.2661-B3181B.svg)](https://arxiv.org/abs/1406.2661) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [DCGAN's](https://github.com/kyscg/Paper2Pulp/blob/master/notes/DCGANs.md) [![Paper](http://img.shields.io/badge/arXiv-1511.06434-B3181B.svg)](https://arxiv.org/abs/1511.06434) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [NIPS 2016 GAN's Tutorial](https://github.com/kyscg/Paper2Pulp/blob/master/notes/NIPS%202016%20GANs%20Tutorial.md) [![Paper](http://img.shields.io/badge/arXiv-1701.00160-B3181B.svg)](https://arxiv.org/abs/1701.00160) [![Video](http://img.shields.io/badge/Video-YouTube-ff0000.svg)](https://www.youtube.com/watch?v=HGYYEUSm-0Q) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
 
 ### May 2019
 
-* [YOLO](https://github.com/kyscg/Paper2Pulp/blob/master/notes/YOLO.md)
-* [OverFeat](https://github.com/kyscg/Paper2Pulp/blob/master/notes/OverFeat.md)
-* [GoogLeNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/GoogLeNet.md)
-* [ResNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/ResNet.md)
-* [VGG-16](https://github.com/kyscg/Paper2Pulp/blob/master/notes/VGG16.md)
-* [AlexNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/AlexNet.md)
+* [YOLO](https://github.com/kyscg/Paper2Pulp/blob/master/notes/YOLO.md) [![Paper](http://img.shields.io/badge/arXiv-1506.02640-B3181B.svg)](https://arxiv.org/abs/1506.02640) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [OverFeat](https://github.com/kyscg/Paper2Pulp/blob/master/notes/OverFeat.md) [![Paper](http://img.shields.io/badge/arXiv-1312.6229-B3181B.svg)](https://arxiv.org/abs/1312.6229) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [GoogLeNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/GoogLeNet.md) [![Paper](http://img.shields.io/badge/arXiv-1409.4842-B3181B.svg)](https://arxiv.org/abs/1409.4842) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [ResNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/ResNet.md) [![Paper](http://img.shields.io/badge/arXiv-1512.03385-B3181B.svg)](https://arxiv.org/abs/1512.03385) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [VGG-16](https://github.com/kyscg/Paper2Pulp/blob/master/notes/VGG16.md) [![Paper](http://img.shields.io/badge/arXiv-1409.1556-B3181B.svg)](https://arxiv.org/abs/1409.1556) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)
+* [AlexNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/AlexNet.md) [![Paper](http://img.shields.io/badge/NeurIPS-4824-357EBD.svg)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [![Code](http://img.shields.io/badge/Code-TensorFlow-ff6f00.svg)](https://) [![Code](http://img.shields.io/badge/Code-PyTorch-ee4c2c.svg)](https://)

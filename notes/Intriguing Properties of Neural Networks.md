@@ -12,11 +12,11 @@
 
 1. They posit that advertorials exploiting a particular network architectures are also hard to classify for the others. They illustrate it by creating adversarial instances yielding 100% error-rate on the target network architecture and using these on the another network. It is shown that these adversarial instances are still hard for the other network (a network with 2% error-rate degraded to 5%). Of course the influence is not that strong compared to the target architecture (which has 100% error-rate).
 
-## Adversarial instances are more significant to higher layers of networks.
+## Adversarial instances are more significant to higher layers of networks
 
 1. As you go to higher layers of the network, instability induced by adversarial instances increases as they measure by Lipschitz constant. This is justifiable observation with that the higher layers capture more abstract semantics and therefore any perturbation on an input might override the constituted semantic. (For instance a concept of "dog head" might be perturbed to something random).
 
-## Auto-Encoders are more resilient to adversarial instances.
+## Auto-Encoders are more resilient to adversarial instances
 
 1. AE is an unsupervised algorithm and it is different from the other models used in the paper since it learns the implicit distribution of the training data instead of mere discriminant features. Thus, it is expected to be more tolerant to adversarial instances. It is understood by Table2 that AE model needs stronger perturbations to achieve 100% classification error with generated adversarial examples.
 

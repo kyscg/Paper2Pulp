@@ -23,7 +23,7 @@
     * No contrast normalization used.
     * Pooling regions are non-overlapping.
     * Larger first and second layer feature maps thanks to a smaller stride (2 instead of 4).
-17. Multiscale classification: 
+17. Multiscale classification:
     * The problem with multi-view voting: ignores many regions on the image - computationally redundant when views overlap - only applied at single scale.
     * Instead, densely run network at each location and at multiple scales. The sliding window approach is inherently efficient in the case of ConvNets.
     * Six different scales of input result in six Layer5 un-pooled maps of different spatial resolution.
@@ -32,8 +32,8 @@
     * Classifer applied in sliding window fashion, giving C-dimensional output maps.
     * Output maps for different delta_x, delta_y combinations are reshaped into a single 3D output map.
 18. Note: At test time, these layers are effectively replaced by convolution operations with kernels of (1 by 1) spatial extent.
-19. Localization: Start from classification trained network, replace classifier layers by a regression network and train it to predict boxes. We then combine the two. 
-20. Non-Max Suppression Algorithm: 
+19. Localization: Start from classification trained network, replace classifier layers by a regression network and train it to predict boxes. We then combine the two.
+20. Non-Max Suppression Algorithm:
     * Each output prediction is [pc, bx, by, bh, bw]
     * Discard all boxes with pc <= 0.6
         * While there are any remaining boxes

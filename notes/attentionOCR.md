@@ -26,7 +26,7 @@ blur, cluttered background or different viewpoints*.
 
 * Pretty straightforward, we use one of the above CNN's to extract features.
 
-* We'll use f = {f<sub>1, j, c</sup>} to denote the feature map derived by passing the image x through a CNN (here i, j index locations in the feature map, and c indexes channels).
+* We'll use f = {f<sub>1, j, c</sub>} to denote the feature map derived by passing the image x through a CNN (here i, j index locations in the feature map, and c indexes channels).
 
 ### B. RNN
 

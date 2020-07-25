@@ -14,6 +14,12 @@
 
 --------------------------
 
+### July 2020
+
+* [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://github.com/kyscg/Paper2Pulp/blob/master/notes/FastSlow.md) [![Paper](http://img.shields.io/badge/arXiv-1903.10172-B3181B.svg)](https://arxiv.org/abs/1903.10172)
+
+* [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/kyscg/Paper2Pulp/blob/master/notes/mVOD.md) [![Paper](http://img.shields.io/badge/arXiv-1711.06368-B3181B.svg)](https://arxiv.org/abs/1711.06368)
+
 ### June 2020
 
 * [When somebody loses weight, where does the fat go?](https://github.com/kyscg/Paper2Pulp/blob/master/notes/weightLoss.md) [![Paper](http://img.shields.io/badge/BMJ-2014;349:g7257-2A6EBB.svg)](https://www.bmj.com/content/349/bmj.g7257)

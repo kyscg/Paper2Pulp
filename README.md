@@ -16,6 +16,8 @@
 
 ### June 2020
 
+* [Understanding Deep Learning Requires Rethinking Generalizations](https://github.com/kyscg/Paper2Pulp/blob/master/notes/rethinkGeneralizations.md) [![Paper](http://img.shields.io/badge/arXiv-1611.03530-B3181B.svg)](https://arxiv.org/abs/1611.03530)
+
 * [When somebody loses weight, where does the fat go?](https://github.com/kyscg/Paper2Pulp/blob/master/notes/weightLoss.md) [![Paper](http://img.shields.io/badge/BMJ-2014;349:g7257-2A6EBB.svg)](https://www.bmj.com/content/349/bmj.g7257)
 
 * [AttentionOCR](https://github.com/kyscg/Paper2Pulp/blob/master/notes/attentionOCR.md) [![Paper](http://img.shields.io/badge/arXiv-1704.03549-B3181B.svg)](https://arxiv.org/abs/1704.03549)

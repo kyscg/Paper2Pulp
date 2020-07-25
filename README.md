@@ -14,6 +14,12 @@
 
 --------------------------
 
+### July 2020
+
+* [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://github.com/kyscg/Paper2Pulp/blob/master/notes/FastSlow.md) [![Paper](http://img.shields.io/badge/arXiv-1903.10172-B3181B.svg)](https://arxiv.org/abs/1903.10172)
+
+* [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://github.com/kyscg/Paper2Pulp/blob/master/notes/mVOD.md) [![Paper](http://img.shields.io/badge/arXiv-1711.06368-B3181B.svg)](https://arxiv.org/abs/1711.06368)
+
 ### June 2020
 
 * [Understanding Deep Learning Requires Rethinking Generalizations](https://github.com/kyscg/Paper2Pulp/blob/master/notes/rethinkGeneralizations.md) [![Paper](http://img.shields.io/badge/arXiv-1611.03530-B3181B.svg)](https://arxiv.org/abs/1611.03530)

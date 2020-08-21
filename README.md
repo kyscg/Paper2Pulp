@@ -14,6 +14,10 @@
 
 --------------------------
 
+### August 2020
+
+* [Learning to Simulate Complex Physics with Graph Networks](https://)
+
 ### July 2020
 
 * [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://github.com/kyscg/Paper2Pulp/blob/master/notes/FastSlow.md) [![Paper](http://img.shields.io/badge/arXiv-1903.10172-B3181B.svg)](https://arxiv.org/abs/1903.10172)

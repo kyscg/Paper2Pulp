@@ -16,7 +16,7 @@
 
 ### August 2020
 
-* [Learning to Simulate Complex Physics with Graph Networks](https://)
+* [Learning to Simulate Complex Physics with Graph Networks](https://github.com/kyscg/Paper2Pulp/blob/master/notes/phySim.md) [![Paper](http://img.shields.io/badge/arXiv-2002.09405-B3181B.svg)](https://arxiv.org/abs/2002.09405)
 
 ### July 2020
 

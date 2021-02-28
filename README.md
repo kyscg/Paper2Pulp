@@ -7,12 +7,17 @@
 * Most of the links underneath are my notes on research papers, but I definitely will throw in some good book reviews etc. if I find any.
 * Most of my notes will deal directly/indirectly with the fields of machine learning, deep neural nets, pure mathematics, physics, neuroscience, genetics and a lil' bit of history if I ever find the time.
 * The way I'd recommend reading my notes is to not read them at all. Instead, redirect yourself to the original paper and write your own notes. Then come back and point out mistakes in mine.
-* These notes are merely ramblings, I've not taken care to polish them even and some might contain thoughts completely irrelevant to the paper in question, so take them lightly. They are definitely not blog posts claiming to make things easier.
+* These notes are merely ramblings, I've not taken care to polish them and some might contain thoughts completely irrelevant to the paper in question, so take them lightly. They are definitely not blog posts claiming to make things easier.
 * And if people wanna read the actual papers, I'd suggest you go through [this](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/), [this](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html), [this](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/), [this](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html) and [this](https://www.youtube.com/watch?v=8eRx5Wo3xYA).
 
 --------------------------
 
 --------------------------
+### September 2020
+
+* [The Hardware Lottery](https://github.com/kyscg/Paper2Pulp/blob/master/notes/hardwareLottery.md) [![Paper](http://img.shields.io/badge/arXiv-2009.06489-B3181B.svg)](https://arxiv.org/abs/2009.06489)
+
+* [Death with Shelly Kagan (Yale, 2007)](https://github.com/kyscg/Paper2Pulp/blob/master/notes/DeathShellyKagan.md) [![Video](http://img.shields.io/badge/Playlist-YouTube-ff0000.svg)](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
 
 ### August 2020
 

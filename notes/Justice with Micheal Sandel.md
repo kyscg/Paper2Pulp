@@ -2,20 +2,20 @@
 
 ## The Libertarian View of Government
 
-* No paternal legislation (seat belt laws, motorcycle laws etc.). They are human choices and the government has no right to coerce people.
-* No morals legislation. The State should not try to promote virtues or enact moral legislation.
-* No redistribution of income from the rich to the poor (soft libertarians approve of slight taxation for judicial system, peace force, etc.)
+- No paternal legislation (seat belt laws, motorcycle laws etc.). They are human choices and the government has no right to coerce people.
+- No morals legislation. The State should not try to promote virtues or enact moral legislation.
+- No redistribution of income from the rich to the poor (soft libertarians approve of slight taxation for judicial system, peace force, etc.)
 
 ### What makes Income Distribution just
 
-* Justice in acquisition (how legally did people make their money?)
-* Justice in transfer (did the distribution arise from the operation of free consent?). An example is buying and trading on the free market.
+- Justice in acquisition (how legally did people make their money?)
+- Justice in transfer (did the distribution arise from the operation of free consent?). An example is buying and trading on the free market.
 
 ### Nozick's Argument against Taxation
 
-* Taxation = Taking of earnings
-* Taking of earnings = forced labour (it is essentially the State laying claim to certain hours of a person's life)
-* Forced labour = slavery (If I don't have the sole right to my labour, it means the State owns part of me)
+- Taxation = Taking of earnings
+- Taking of earnings = forced labour (it is essentially the State laying claim to certain hours of a person's life)
+- Forced labour = slavery (If I don't have the sole right to my labour, it means the State owns part of me)
 
 #### Violates the fundamental libertarian idea of self-possession
 
@@ -23,11 +23,11 @@
 
 ### Objections to Libertarianism
 
-* Poor need money more.
-* Taxation by consent of the governed is not exactly coercion. This objection means to say by agreeing to be a part of society and electing someone who'll govern them, the rich have already agreed to be taxed.
-* The successful owe a debt to society. _I personally think this makes sense but this responsibility should be felt by the rich and successful, we shouldn't expect everyone to feel this way. There are loads of people who have battled extremely constricting societal trappings to get to where they are and we cannot blame them for feeling they don't owe anything to anyone_.
+- Poor need money more.
+- Taxation by consent of the governed is not exactly coercion. This objection means to say by agreeing to be a part of society and electing someone who'll govern them, the rich have already agreed to be taxed.
+- The successful owe a debt to society. _I personally think this makes sense but this responsibility should be felt by the rich and successful, we shouldn't expect everyone to feel this way. There are loads of people who have battled extremely constricting societal trappings to get to where they are and we cannot blame them for feeling they don't owe anything to anyone_.
 
-* Luck is involved in making money. _To make things clear, this objects to the labour argument against taxation_.
+- Luck is involved in making money. _To make things clear, this objects to the labour argument against taxation_.
 
 #### Underlying premise: Do we really **own** ourselves in a society
 
@@ -61,18 +61,18 @@ According to Immanual Kant, when we, like animals, seek pleasure or the satisfac
 
 ### Kant's Conception of Freedom
 
-* To act freely = to act autonomously = act according to a law I give myself.
-* **To act freely is not to choose the best means to a given end, it's to choose the end itself for it's own sake.**
+- To act freely = to act autonomously = act according to a law I give myself.
+- **To act freely is not to choose the best means to a given end, it's to choose the end itself for it's own sake.**
 
 ### Kant's Conception of Morality
 
-* Moral worth of an action depends on motive.
+- Moral worth of an action depends on motive.
 
 ### What is the supreme principle of morality
 
-* Duty vs. Inclination
-* Autonomy vs. Heteronomy
-* Categorical Imperative vs. Hypothetical Imperative
+- Duty vs. Inclination
+- Autonomy vs. Heteronomy
+- Categorical Imperative vs. Hypothetical Imperative
 
 ### The Categorical Imperative
 
@@ -88,15 +88,15 @@ Note: this is just a test, but not a reason onto itself which would contradict K
 
 ### Moral Force of Actual Contracts
 
-* How do they bind or obligate?
-* How do they justify the terms they produce? _They don't, for example, the United States constitution had once agreed to slavery_.
+- How do they bind or obligate?
+- How do they justify the terms they produce? _They don't, for example, the United States constitution had once agreed to slavery_.
 
 Rawls says that the way to think about justice is from the standpoint of a hypothetical contract behind a veil of ignorance that creates a condition of equality by ruling out or enabling us to forget for the moment, the differences in power and knowledge that could, even in principle, lead to unfair results.
 
 ## Theories of Distributive Justice
 
 | Belief System | Justice Theory               |
-|---------------|------------------------------|
+| ------------- | ---------------------------- |
 | Libertarian   | Free Market System           |
 | Meritocracy   | Fair Equality of Opportunity |
 | Egalitarian   | Rawls' Difference Principle  |
@@ -107,24 +107,24 @@ Rawls does not say that the only way to remedy / compensate for differences in n
 
 ### Objections to Rawls' Difference Principle
 
-* What about incentives? (If taxes go up to 70%, 80%, why would people be motivated to earn money?)
+- What about incentives? (If taxes go up to 70%, 80%, why would people be motivated to earn money?)
 
 Rawls has an answer to this objective, he says that the rich are to gain, but not too much as to make everyone lose the motivation needed. In effect, keep the tax rate optimal.
 
 > The naturally advantaged are not to gain merely because they are more gifted, but only to cover the costs of training and education and for using their endowments in ways that help the less fortunate as well. ~ John Rawls
 
-* What about effort?
-* What about self-ownership?
+- What about effort?
+- What about self-ownership?
 
-> Life isn't fair. It is tempting to believe that  the government can rectify what nature has spawned. ~ Milton Friedman
+> Life isn't fair. It is tempting to believe that the government can rectify what nature has spawned. ~ Milton Friedman
 
 > The natural distribution is neither just nor unjust; nor is it unjust that persons are born into society at some particular position. These are simply natural facts. What is just and unjust is the way that our institutions deal with these facts. ~ John Rawls
 
 ### Arguments FOR affirmative action
 
-* Corrective : For differences in educational backgrounds
-* Compensatory : For past wrongs (_until when though?_)
-* Diversity : For educational experience and for society as a whole.
+- Corrective : For differences in educational backgrounds
+- Compensatory : For past wrongs (_until when though?_)
+- Diversity : For educational experience and for society as a whole.
 
 #### Is it possible and is it desirable to detach questions of distributive justice from questions of moral desert and questions of virtue
 

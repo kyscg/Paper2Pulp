@@ -5,10 +5,10 @@
 1. I already have a good idea about this from Dr. Goodfellow's NIPS 2016 tutorial, so the paper should be relatively easy to go through. This means that this file while be short and way less understandable.
 2. This networks generates pictures of bedrooms.
 3. Main contributions of the paper:
-    * The authors propose and evaluate a set of constraints on the architectural topology of Convolutional GANs that make them stable to train in most settings. This class of architectures is called DCGANs.
-    * We use the trained discriminators for image classification tasks, showing competitive performance with other unsupervised algorithms.
-    * We visualize the filters learnt by GANs and empirically show that specific filters have learned to draw specific objects.
-    * We show that the generators have interesting vector arithmetic properties allowing for easy manipulation of many semantic qualities of generated samples.
+   - The authors propose and evaluate a set of constraints on the architectural topology of Convolutional GANs that make them stable to train in most settings. This class of architectures is called DCGANs.
+   - We use the trained discriminators for image classification tasks, showing competitive performance with other unsupervised algorithms.
+   - We visualize the filters learnt by GANs and empirically show that specific filters have learned to draw specific objects.
+   - We show that the generators have interesting vector arithmetic properties allowing for easy manipulation of many semantic qualities of generated samples.
 
 ## Architecture for stable DCGANs
 

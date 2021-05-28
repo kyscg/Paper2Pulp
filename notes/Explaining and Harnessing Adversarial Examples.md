@@ -15,21 +15,21 @@
 3. The same adversarial example is often misclassified by a variety of classifiers with different architectures or trained on different subsets of the training data.
 4. Shallow softmax regression models are also vulnerable to adversarial examples.
 5. Training on adversarial examples can regularize the model—however, this was not practical
-at the time due to the need for expensive constrained optimization in the inner loop.
-6. **Another great line I'm quoting directly from the paper:** "*These results suggest that classifiers based on modern machine learning techniques, even those that obtain excellent performance on the test set, are not learning the true underlying concepts that determine the correct output label. Instead, these algorithms have built a Potemkin village that works well on naturally occurring data, but is exposed as a fake when one visits points in space that do not have high probability in the data distribution. This is particularly disappointing because a popular approach in computer vision is to use convolutional network features as a space where Euclidean distance approximates perceptual distance. This resemblance is clearly flawed if images that have an immeasurably small perceptual distance correspond to completely different classes in the network’s representation.*"
+   at the time due to the need for expensive constrained optimization in the inner loop.
+6. **Another great line I'm quoting directly from the paper:** "_These results suggest that classifiers based on modern machine learning techniques, even those that obtain excellent performance on the test set, are not learning the true underlying concepts that determine the correct output label. Instead, these algorithms have built a Potemkin village that works well on naturally occurring data, but is exposed as a fake when one visits points in space that do not have high probability in the data distribution. This is particularly disappointing because a popular approach in computer vision is to use convolutional network features as a space where Euclidean distance approximates perceptual distance. This resemblance is clearly flawed if images that have an immeasurably small perceptual distance correspond to completely different classes in the network’s representation._"
 7. Learnt about a [Potemkin village](https://en.wikipedia.org/wiki/Potemkin_village)
 
 ## The Linear Explanation of Adversarial Examples
 
-1. Precision of an individual input feature is limited. For example, digital images discard all information below 1/255  of the dynamic range. For this reason, if the perturbation is small enough, we expect the classifier to return the same class for both input and slightly perturbed input.
+1. Precision of an individual input feature is limited. For example, digital images discard all information below 1/255 of the dynamic range. For this reason, if the perturbation is small enough, we expect the classifier to return the same class for both input and slightly perturbed input.
 2. Consider the dot product between the weight matrix and the adversarial example, it would just be the sum of the dot products between the weight matrix with the original input and the **weight matrix with the perturbation**. The part in bold is the increase and it gets bigger due to i) substituting 'w' with 'sign(w)' and ii) large input size.
 3. This explanation shows that a simple linear model can have adversarial examples if its input has sufficient dimensionality. This hypothesis based on linearity is simpler, and can also explain why softmax regression is vulnerable to adversarial examples.
 
 ## Linear perturbation of Non-Linear models
 
-1. **Neural networks are too linear to resist linear adversarial perturbation.**  LSTMs, ReLUs, and maxout networks are all intentionally designed to behave in very linear ways, so that they are easier to optimize. More nonlinear models such as sigmoid networks are carefully tuned to spend most of their time in the non-saturating, more linear regime for the same reason. This linear behavior suggests that cheap, analytical perturbations of a linear model should also damage neural networks.
+1. **Neural networks are too linear to resist linear adversarial perturbation.** LSTMs, ReLUs, and maxout networks are all intentionally designed to behave in very linear ways, so that they are easier to optimize. More nonlinear models such as sigmoid networks are carefully tuned to spend most of their time in the non-saturating, more linear regime for the same reason. This linear behavior suggests that cheap, analytical perturbations of a linear model should also damage neural networks.
 
-    ![Panda + Nematode = Gibbon](https://cdn-images-1.medium.com/max/1200/0*k3QpRlbCJoiuUkNa)
+   ![Panda + Nematode = Gibbon](https://cdn-images-1.medium.com/max/1200/0*k3QpRlbCJoiuUkNa)
 
 2. **The Fast Gradient Sign Method**. It's great and all, but I've got no intention of typing LaTeX on GitHub Markdown all night.
 3. Other simple methods of generating adversarial examples are possible. For example, we also found that rotating 'x' by a small angle in the direction of the gradient reliably produces adversarial examples.
@@ -41,8 +41,8 @@ at the time due to the need for expensive constrained optimization in the inner 
 ## Adversarial training of deep networks
 
 1. Reminder: The universal approximator theorem (Hornik et al., 1989) guarantees that a neural network with at least one hidden layer can represent any function to an arbitrary degree of accuracy so long as its hidden layer is permitted to have enough units. Two points of argument ensue naturally:
-    * The universal approximator theorem does not say anything about whether a training algorithm will be able to discover a function with all of the desired properties.
-    * Standard supervised training does not specify that the chosen function be resistant to adversarial examples. This must be encoded in the training procedure somehow.
+   - The universal approximator theorem does not say anything about whether a training algorithm will be able to discover a function with all of the desired properties.
+   - Standard supervised training does not specify that the chosen function be resistant to adversarial examples. This must be encoded in the training procedure somehow.
 2. **Cost function for adversarial training**
 3. The adversarial training procedure can be seen as minimizing the worst case error when the data is perturbed by an adversary.
 4. Adversarial training can also be seen as a form of active learning, where the model is able to request labels on new points.

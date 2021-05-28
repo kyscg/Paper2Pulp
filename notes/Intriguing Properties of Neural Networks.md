@@ -3,9 +3,9 @@
 ## Introduction
 
 1. The key findings are the following:
-    * The space, rather than the individual units, that contains the semantic information in the high layers of neural networks.
-    * We can cause the network to misclassify an image by applying a certain hardly perceptible perturbation, which is found by maximizing the network’s prediction error.
-    * The same perturbation can cause a different network, that was trained on a different subset of the dataset, to misclassify the same input. Also termed **transferability** in CS230 Stanford.
+   - The space, rather than the individual units, that contains the semantic information in the high layers of neural networks.
+   - We can cause the network to misclassify an image by applying a certain hardly perceptible perturbation, which is found by maximizing the network’s prediction error.
+   - The same perturbation can cause a different network, that was trained on a different subset of the dataset, to misclassify the same input. Also termed **transferability** in CS230 Stanford.
 2. This review will mostly deal with the adversarial examples part because I said so.
 
 ## Adversarial Instances Are General To Different Models and Datasets
@@ -30,15 +30,15 @@
 
 4. After having read the paper: I either haven't understood the paper correctly, or it is mainly hogwash.
 
-    * It's conclusion reads: "*The adversarial negatives appears to be in contradiction with the network’s ability to achieve high generalization performance. Indeed, if the network can generalize well, how can it be confused by these adversarial negatives, which are indistinguishable from the regular examples?*"
+   - It's conclusion reads: "_The adversarial negatives appears to be in contradiction with the network’s ability to achieve high generalization performance. Indeed, if the network can generalize well, how can it be confused by these adversarial negatives, which are indistinguishable from the regular examples?_"
 
-    * So they set up an optimization problem that finds images that are as indistinguishable as possible from real data points but are wrongly classified, and they end up with -- drumrolls please -- images that are indistinguishable from real data points but are wrongly classified! Intriguing indeed, L-BFGS works as advised, alert the press?
+   - So they set up an optimization problem that finds images that are as indistinguishable as possible from real data points but are wrongly classified, and they end up with -- drumrolls please -- images that are indistinguishable from real data points but are wrongly classified! Intriguing indeed, L-BFGS works as advised, alert the press?
 
-    * I would be more surprised if such examples wouldn't exist. Just look at any papers that show any first-layer filters on MNIST (and I've never read a deep learning paper that doesn't include such pictures) --- it isn't hard to imagine that it's easy to confound any of these edge/stroke detectors with a few cleverly modified pixels (at least that's the impression I get visually). Especially if you look at all of them at the same time to determine which pixels to modify to turn some detectors off and others on -- and the optimization task is of course able to do this. The really clever idea behind this paper -- and this should've been the main point of the experiment in my eyes, as it's the really interesting bit -- is using these new distortions to train the classifiers and see if it improves generalization. Yet this part is missing from the analysis, and it really makes me wonder why that is.
+   - I would be more surprised if such examples wouldn't exist. Just look at any papers that show any first-layer filters on MNIST (and I've never read a deep learning paper that doesn't include such pictures) --- it isn't hard to imagine that it's easy to confound any of these edge/stroke detectors with a few cleverly modified pixels (at least that's the impression I get visually). Especially if you look at all of them at the same time to determine which pixels to modify to turn some detectors off and others on -- and the optimization task is of course able to do this. The really clever idea behind this paper -- and this should've been the main point of the experiment in my eyes, as it's the really interesting bit -- is using these new distortions to train the classifiers and see if it improves generalization. Yet this part is missing from the analysis, and it really makes me wonder why that is.
 
-    * What I also don't get is their argument against disentangling. If I understood correctly they found out that images that activate a bunch of units the same way (i.e., "in a random direction") look similar. How does that contradict disentangling?
+   - What I also don't get is their argument against disentangling. If I understood correctly they found out that images that activate a bunch of units the same way (i.e., "in a random direction") look similar. How does that contradict disentangling?
 
-    * After thinking about it some more: so their main surprising result is actually that maybe the classification space isn't as smooth as usually thought/claimed? My multi-dimensional understanding isn't the best, but isn't that also somehow connected to the curse of dimensionality or the manifold assumption (i.e., when dimensions are so high, the subspace/manifold your data points lie on could be "folded" so weirdly that only taking a small step in the "right" direction lands you somewhere else entirely)?
+   - After thinking about it some more: so their main surprising result is actually that maybe the classification space isn't as smooth as usually thought/claimed? My multi-dimensional understanding isn't the best, but isn't that also somehow connected to the curse of dimensionality or the manifold assumption (i.e., when dimensions are so high, the subspace/manifold your data points lie on could be "folded" so weirdly that only taking a small step in the "right" direction lands you somewhere else entirely)?
 
 5. For a paper that wants to find out the distinctive weaknesses of the class of functions that neural networks learn, they sure don't spend much time comparing against a control (like SVMs, Random Forests, etc). How do they know these 'blind spots' are a weakness of neural networks and not inherent in the dataset and specifically when the only information available is object category.
 

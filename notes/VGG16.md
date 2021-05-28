@@ -3,7 +3,7 @@
 ## Introduction
 
 1. In this paper, an important aspect of ConvNet architecture design – its depth - is given importance. To this end, other parameters are fixed and only depth of the network is increased steadily by adding more convolutional layers, which is feasible due to the use of very
-small (3 × 3) convolution filters in all layers.
+   small (3 × 3) convolution filters in all layers.
 2. This paper is among a series of such papers aiming to improve upon [AlexNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/AlexNet.md).
 
 ## Architecture
@@ -27,7 +27,7 @@ small (3 × 3) convolution filters in all layers.
 
 ## Training
 
-1. Namely, the training was carried out by optimising the multinomial logistic regression objective using mini-batch gradient descent with momentum. The batch size was set to 256, momentum to 0.9. The training was regularised by weight decay (the L2 penalty multiplier set to 5 * 10<sup>−4</sup> ) and dropout regularisation for the first two fully-connected layers (dropout ratio set to 0.5).
+1. Namely, the training was carried out by optimising the multinomial logistic regression objective using mini-batch gradient descent with momentum. The batch size was set to 256, momentum to 0.9. The training was regularised by weight decay (the L2 penalty multiplier set to 5 \* 10<sup>−4</sup> ) and dropout regularisation for the first two fully-connected layers (dropout ratio set to 0.5).
 2. The learning rate was initially set to 10<sup>−2</sup> , and then decreased by a factor of 10 when the validation set accuracy stopped improving. In total, the learning rate was decreased 3 times, and the learning was stopped after 370K iterations (74 epochs).
 3. As compared to [AlexNet](https://github.com/kyscg/Paper2Pulp/blob/master/notes/AlexNet.md), the nets required less epochs to converge due to (a) implicit regularisation imposed by greater depth and smaller conv. filter sizes; (b) pre-initialisation of certain layers.
 4. The initialization of layers other than A were done with the first few layers of A which was already trained, this sped up the training process. However, learning rate wasn't decreased during training of the other layers.

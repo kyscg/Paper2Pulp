@@ -14,6 +14,12 @@
 
 ---
 
+### July 2021
+
+- [Huberman Lab Podcast notes](https://github.com/kyscg/Paper2Pulp/blob/master/notes/huberman.pdf) [![Video](http://img.shields.io/badge/Playlist-YouTube-ff0000.svg)](https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW)
+
+- [How the Coronavirus Infects Cells](https://github.com/kyscg/Paper2Pulp/blob/master/notes/DeltaSARSnCoV2.pdf) [![Paper](https://img.shields.io/badge/Nature-Feature-blue)](https://www.nature.com/articles/d41586-021-02039-y)
+
 ### May 2021
 
 - [Elementary Introduction to Number Theory](https://github.com/kyscg/Paper2Pulp/blob/master/notes/longnumbertheory.pdf) by Calvin Long
